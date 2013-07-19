@@ -1,4 +1,9 @@
-<h1>Project1#home</h1>
-<p>
-  This is the Home page for project1
-</p>
+<% provide(:title, 'Home') %>
+
+<div class="page-header">
+  <center><h1>Project1</h1>
+
+  <h2>
+    This is the Home page for project1
+  </h2>
+</div>
